@@ -1,3 +1,5 @@
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
 # next-demo
 ## Studying on Nextjs
 1. Supabase
@@ -9,8 +11,6 @@
 3. [Clerk](https://clerk.com/docs/quickstarts/nextjs)  
 -> 6/14 ./clerk-demo  
 
-
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
