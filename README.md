@@ -40,11 +40,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 1. Supabase
 2. Prisma
 [Quickstart - Prisma](https://www.prisma.io/docs/getting-started/quickstart)
-[CRUD - Prisma](https://www.prisma.io/docs/orm/prisma-client/queries/crud)
-
--> **6/12 ./next-demo (API Route)**
-
--> 6/13 ./server-action-demo (Server action)
-   
+[CRUD - Prisma](https://www.prisma.io/docs/orm/prisma-client/queries/crud) 
+-> **6/12 ./next-demo (API Route)** 
+-> 6/13 ./server-action-demo (Server action) 
 3. [Clerk](https://clerk.com/docs/quickstarts/nextjs)
 -> 6/14 ./clerk-demo 
