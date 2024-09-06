@@ -11,7 +11,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 3. [Clerk](https://clerk.com/docs/quickstarts/nextjs)  
 -> 6/14 ./clerk-demo  
 
-### note:APIの生やし方
+#### note:APIの生やし方
 1. app直下にapi/v1/postsディレクトリを作成
 1. route.tsを作成
 1. GET関数やPOST関数などをアロー関数で作成
